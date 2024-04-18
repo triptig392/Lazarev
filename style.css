@@ -45,23 +45,23 @@ nav {
   display: flex;
   align-items: flex-start;
   justify-content: space-evenly;
-  padding: 1vw 10vw;
-  padding-left: 11.5vw;
+  padding: 0vw 12vw;
+  padding-left: 10vw;
 }
 
 .bottom-div h5 {
-  margin-bottom: 0.5vw;
+  margin-bottom: 1vh;
   opacity: 0;
 }
 
 .bottom-div h5 span {
-  font-size: 0.7vw;
+  font-size: 0.9vw;
   font-weight: lighter;
 }
 
 nav:hover #nav-bottom {
-  bottom: -150%;
-  height: 160%;
+  bottom: -110%;
+  height: 120%;
 }
 
 nav:hover .bottom-div h5 {
