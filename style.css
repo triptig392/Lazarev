@@ -1,6 +1,6 @@
 @font-face {
   font-family: myFont;
-  src: url(./font/NeueHaasDisplayMediu.ttf);
+  src: url(./font/NeueHaasDisplayLight.ttf);
 }
 * {
   margin: 0;
@@ -19,6 +19,7 @@ body {
 nav {
   position: fixed;
   /* background-color: rgb(255, 0, 217); */
+  background-color: #111;
   align-items: center;
   display: flex;
   width: 100%;
